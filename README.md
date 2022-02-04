@@ -8,4 +8,4 @@
 
 ## FootNotes
 
-### Use them to your heart's content credits and stars are appreciated
+> Use them to your heart's content credits and stars are appreciated
