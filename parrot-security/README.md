@@ -4,7 +4,7 @@
 
 note this screenshot doesn't belong to me it will be updated soon
 
-![ParrotSec](https://github.com/ddenobega/dotfiles/blob/master/parrot-security/parrot.png)
+![ParrotSec](https://github.com/ddenobrega/dotfiles/blob/master/parrot-security/parrot.png)
 
 ## Installation instructions
 
