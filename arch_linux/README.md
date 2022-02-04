@@ -2,7 +2,7 @@
 
 > ScreenShot
 
-![Desktop](https://github.com/ddenobrega/blob/master/dotfiles/arch_linux/desktop.png)
+![Desktop](https://github.com/Ddenobrega/dotfiles/blob/master/arch_linux/desktop.png)
 
 # Usage
 
