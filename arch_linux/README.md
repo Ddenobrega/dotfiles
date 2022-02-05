@@ -10,7 +10,7 @@
 ## Install Dependencies
 
 - Yay Required or you can use the aur or whatever helper you use
-  ` yay -S matcha-gtk-theme dunst nerd-fonts-jetbrains-mono i3-gaps picom zsh starship zsh-syntax-highlighting`
+  ` yay -S shell-color-scripts matcha-gtk-theme dunst nerd-fonts-jetbrains-mono i3-gaps picom zsh starship zsh-syntax-highlighting`
 
 ## Optional Additions
 
